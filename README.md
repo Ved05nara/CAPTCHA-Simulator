@@ -35,7 +35,7 @@ A comprehensive, interactive CAPTCHA simulator that demonstrates 4 different typ
 6. **Final**: Get your personalized "Verified! Welcome [name]" message
 
 ## 🎓 Educational Purpose
-This project was created as a college assignment to demonstrate understanding of:
+This project was create to demonstrate understanding of:
 - CAPTCHA mechanisms and their importance in web security
 - Different verification methods for accessibility
 - Frontend development concepts
